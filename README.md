@@ -1,2 +1,2 @@
 # Water-Flow-Simulator
-App domain: https://zswqi.csb.app/
+Live Demo: https://zswqi.csb.app/
